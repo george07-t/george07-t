@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=george07-t)<h1 align="center">Hi 👋, I'm George Tonmoy Roy</h1>
-<h3 align="center">I’m interested in IoT, Software Engineering, Android Development, and NLP.</h3>
+<h3 align="center">I’m interested in LLM, NLP, Software Engineering, Android Development, and IoT.</h3>
 <h3 align="center">I’m currently learning computer science at KUET.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=george07-t" alt="george07-t" /></a> </p>
