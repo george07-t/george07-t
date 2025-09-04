@@ -6,12 +6,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/george-tonmoy-roy-585314293" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://github.com/abrarhasan3" height="30" width="40" /></a> 
+<a href="https://www.linkedin.com/in/george-tonmoy-roy-585314293" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://github.com/abrarhasan3" height="30" width="40" /></a> 
 <a href="https://www.facebook.com/georgetonmoy.roy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/georgetonmoy.roy/" height="30" width="40" /></a>
 <a href="https://github.com/george07-t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/george07-t" height="30" width="40" /></a><a href="https://codeforces.com/profile/george_tonmoy_roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://github.com/george07-t" height="30" width="40" /></a>
-<!--
-<a href="https://www.leetcode.com/https://github.com/abrarhasan3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://github.com/abrarhasan3" height="30" width="40" /></a>
--->
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
