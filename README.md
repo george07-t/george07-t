@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=george07-t)<h1 align="center">Hi 👋, I'm George Tonmoy Roy</h1>
-<h3 align="center">I’m experienceed in AI Agent, LLM, NLP, Software Engineering, Backend & Frontend Development, Android Development, and IoT.</h3>
+<h3 align="center">I’m experienced in AI Agent, LLM, NLP, Software Engineering, Backend & Frontend Development, Android Development, and IoT.</h3>
 <h3 align="center">I’m a Computer Science Graduate from KUET.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=george07-t" alt="george07-t" /></a> </p>
