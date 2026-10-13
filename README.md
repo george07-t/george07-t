@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=140&section=header" alt="" />
 
-<h1 align="center">Hi 👋, I'm George Tonmoy Roy</h1>
+<h1 align="center">Hi, I'm George Tonmoy Roy</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1200&center=true&vCenter=true&width=640&lines=AI+%2F+LLM+Engineer;Agentic+Systems+%26+RAG+Pipelines;Backend+Engineer+(FastAPI+%7C+Django)" alt="Typing SVG" />
@@ -15,21 +15,21 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=george07-t&label=Profile+views&color=2c5364&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=george07-t" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/george07-t?label=Followers&style=flat&logo=github" alt="Followers" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-- 🤖 **Software Engineer (AI) at Nidus Lab** (Sep 2025 – present): leading **NidusJob**, an AI-powered job portal with a resume builder, job recommendations, predictive analytics, semantic search and a voice assistant.
-- 🧠 Previously **AI/LLM Engineer at Transforms AI**: built agentic workflows, RAG systems and a custom tool-calling framework for non-native models (e.g. Gemma 3), including RAG and HR software for the Government of Bangladesh's Energy & Mineral Resources Division.
-- 🎓 B.Sc. in **Computer Science & Engineering**, KUET (2020 – 2025).
-- 🛠️ I turn messy, unstructured data (transcripts, documents, Excel) into reliable, retrievable knowledge, and build automation that removes manual coordination work.
-- 📍 Dhaka, Bangladesh
+- **Software Engineer (AI) at Nidus Lab** (Sep 2025 – present): leading **NidusJob**, an AI-powered job portal with a resume builder, job recommendations, predictive analytics, semantic search and a voice assistant.
+- Previously **AI/LLM Engineer at Transforms AI**: built agentic workflows, RAG systems and a custom tool-calling framework for non-native models (e.g. Gemma 3), including RAG and HR software for the Government of Bangladesh's Energy & Mineral Resources Division.
+- B.Sc. in **Computer Science & Engineering**, KUET (2020 – 2025).
+- I turn messy, unstructured data (transcripts, documents, Excel) into reliable, retrievable knowledge, and build automation that removes manual coordination work.
+- Dhaka, Bangladesh
 
-## 🧰 Tech Stack
+## Tech Stack
 
 **AI / LLM** &nbsp;
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
@@ -72,7 +72,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | What it does | Stack |
 |---|---|---|
@@ -86,7 +86,7 @@
 | [**B10MRAG**](https://github.com/george07-t/B10MRAG) · [**Bangla-Product-RAG**](https://github.com/george07-t/Bangla-Product-RAG) | Bangla + English RAG over PDFs with OCR and hybrid retrieval | Python, OCR |
 | [**AliExpress Review System**](https://github.com/george07-t/AliExpress-Product-Review-Reply-Management-System) | Fake-review detection, sentiment analysis and automated replies | Mistral 7B, PyTorch |
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=george07-t&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
@@ -100,7 +100,7 @@
 ---
 
 <p align="center">
-  <i>Open to AI / LLM engineering opportunities. Feel free to reach out! 🚀</i>
+  <i>Open to AI / LLM engineering opportunities. Feel free to reach out!</i>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" alt="" />
