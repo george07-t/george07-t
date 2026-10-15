@@ -124,11 +124,11 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1930](https://github.com/MakazhanAlpamys/Soup/pull/1930) in [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup)
-2. 💪 Opened PR [#1421](https://github.com/neuml/txtai/pull/1421) in [neuml/txtai](https://github.com/neuml/txtai)
-3. 🎉 Merged PR [#1409](https://github.com/neuml/txtai/pull/1409) in [neuml/txtai](https://github.com/neuml/txtai)
-4. 🗣 Commented on [#1409](https://github.com/neuml/txtai/pull/1409#issuecomment-6169600184) in [neuml/txtai](https://github.com/neuml/txtai)
-5. 💪 Opened PR [#1409](https://github.com/neuml/txtai/pull/1409) in [neuml/txtai](https://github.com/neuml/txtai)
+1. 🎉 Merged PR [#2017](https://github.com/semantica-agi/semantica/pull/2017) in [semantica-agi/semantica](https://github.com/semantica-agi/semantica)
+2. 🗣 Commented on [#1888](https://github.com/MakazhanAlpamys/Soup/issues/1888#issuecomment-6185952852) in [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup)
+3. 💪 Opened PR [#2017](https://github.com/semantica-agi/semantica/pull/2017) in [semantica-agi/semantica](https://github.com/semantica-agi/semantica)
+4. 🎉 Merged PR [#1544](https://github.com/doobidoo/mcp-memory-service/pull/1544) in [doobidoo/mcp-memory-service](https://github.com/doobidoo/mcp-memory-service)
+5. 🗣 Commented on [#1544](https://github.com/doobidoo/mcp-memory-service/pull/1544#issuecomment-6188318626) in [doobidoo/mcp-memory-service](https://github.com/doobidoo/mcp-memory-service)
 <!--END_SECTION:activity-->
 
 ---
