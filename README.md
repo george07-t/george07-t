@@ -86,16 +86,45 @@
 | [**B10MRAG**](https://github.com/george07-t/B10MRAG) · [**Bangla-Product-RAG**](https://github.com/george07-t/Bangla-Product-RAG) | Bangla + English RAG over PDFs with OCR and hybrid retrieval | Python, OCR |
 | [**AliExpress Review System**](https://github.com/george07-t/AliExpress-Product-Review-Reply-Management-System) | Fake-review detection, sentiment analysis and automated replies | Mistral 7B, PyTorch |
 
-## GitHub Stats
+## GitHub Metrics Dashboard
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=george07-t&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=george07-t&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=george07-t&theme=github_dark" alt="Profile details" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=george07-t&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=george07-t&theme=github_dark" alt="Repos per language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=george07-t&theme=github_dark" alt="Most commit language" />
 </p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=george07-t&theme=github_dark" alt="Stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=george07-t&theme=github_dark" alt="Productive time" />
+</p>
+
+## GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=george07-t&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=george07-t&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=george07-t&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/george07-t/george07-t/media/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/george07-t/george07-t/media/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/george07-t/george07-t/media/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+## Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
