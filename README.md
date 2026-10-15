@@ -124,6 +124,11 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#1930](https://github.com/MakazhanAlpamys/Soup/pull/1930) in [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup)
+2. 💪 Opened PR [#1421](https://github.com/neuml/txtai/pull/1421) in [neuml/txtai](https://github.com/neuml/txtai)
+3. 🎉 Merged PR [#1409](https://github.com/neuml/txtai/pull/1409) in [neuml/txtai](https://github.com/neuml/txtai)
+4. 🗣 Commented on [#1409](https://github.com/neuml/txtai/pull/1409#issuecomment-6169600184) in [neuml/txtai](https://github.com/neuml/txtai)
+5. 💪 Opened PR [#1409](https://github.com/neuml/txtai/pull/1409) in [neuml/txtai](https://github.com/neuml/txtai)
 <!--END_SECTION:activity-->
 
 ---
