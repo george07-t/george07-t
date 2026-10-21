@@ -124,11 +124,11 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1915](https://github.com/MakazhanAlpamys/Soup/issues/1915#issuecomment-6261443852) in [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup)
-2. 💪 Opened PR [#2021](https://github.com/MakazhanAlpamys/Soup/pull/2021) in [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup)
-3. 🗣 Commented on [#1915](https://github.com/MakazhanAlpamys/Soup/issues/1915#issuecomment-6259665514) in [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup)
-4. 🎉 Merged PR [#1930](https://github.com/MakazhanAlpamys/Soup/pull/1930) in [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup)
-5. 🎉 Merged PR [#654](https://github.com/modoboa/modoboa-installer/pull/654) in [modoboa/modoboa-installer](https://github.com/modoboa/modoboa-installer)
+1. 💪 Opened PR [#2065](https://github.com/semantica-agi/semantica/pull/2065) in [semantica-agi/semantica](https://github.com/semantica-agi/semantica)
+2. 🗣 Commented on [#2018](https://github.com/semantica-agi/semantica/issues/2018#issuecomment-6308806511) in [semantica-agi/semantica](https://github.com/semantica-agi/semantica)
+3. 🗣 Commented on [#1915](https://github.com/MakazhanAlpamys/Soup/issues/1915#issuecomment-6261443852) in [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup)
+4. 💪 Opened PR [#2021](https://github.com/MakazhanAlpamys/Soup/pull/2021) in [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup)
+5. 🗣 Commented on [#1915](https://github.com/MakazhanAlpamys/Soup/issues/1915#issuecomment-6259665514) in [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup)
 <!--END_SECTION:activity-->
 
 ---
